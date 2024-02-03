@@ -19,15 +19,15 @@
         },
         {
             "title": "Transportation",
-            "budget": 50
+            "budget": 60
         },
         {
             "title": "Entertainment",
-            "budget": 75
+            "budget": 85
         },
         {
             "title": "Healthcare",
-            "budget": 80
+            "budget": 95
         }
     ]
 }
